@@ -1,2 +1,0 @@
-# BoxBrowser
-Built on Chronium
